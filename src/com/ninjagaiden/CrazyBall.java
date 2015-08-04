@@ -1,5 +1,3 @@
-package com.ninjagaiden;
-
 /**
  /******************************************************************************
  *  Compilation:  javac BouncingBall.java
@@ -11,6 +9,8 @@ package com.ninjagaiden;
  *  % java BouncingBall
  *
  ******************************************************************************/
+package com.ninjagaiden;
+
 import com.stdlib.StdDraw;
 
 
