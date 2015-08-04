@@ -8,6 +8,9 @@
 *.war
 *.ear
 
+$inteliJ
+.idea/
+
 # IDE
 *.iml
 *.xml
