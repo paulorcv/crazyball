@@ -11,6 +11,10 @@
 #inteliJ
 .idea/
 
+#eclipse
+.classpath
+.settings/
+.project
 
 # IDE
 *.iml
